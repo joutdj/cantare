@@ -15,7 +15,7 @@
 
 ## Todo
 
-- ajouter les tablatures de guitare si possible (voir [ici](https://dnotes.github.io/markdown-it-chords/)<br />
+- ajouter les tablatures de guitare si possible (voir [ici](https://dnotes.github.io/markdown-it-chords/))<br />
   
 ## Clémence en vacances 
 [top](#cantare) <br />
