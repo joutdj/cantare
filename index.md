@@ -2,12 +2,14 @@
 
 ## Sommaire
 
-[Clémence](##clémence-en-vacances)<br />
-[La lotta](##la-lotta)<br />
-[La tendresse](##la-tendresse)<br />
-[Reverdecer](##reverdecer)<br />
-[Les gens qui doutent](##les-gens-qui-doutent)<br />
-[Dis quand reviendras-tu](##dis-quand-reviendras-tu)<br />
+[Clémence](#clémence-en-vacances)<br />
+[La lotta](#la-lotta)<br />
+[A la huelga](#a-la-huelga)<br />
+[La tendresse](#la-tendresse)<br />
+[Reverdecer](#reverdecer)<br />
+[Les gens qui doutent](#les-gens-qui-doutent)<br />
+[Dis quand reviendras-tu](#dis-quand-reviendras-tu)<br />
+
 
 ## Idées de chansons à rajouter
 
@@ -34,12 +36,12 @@ ouuu | *(C)* Que de le dire à l'école<br />
 ouuu | *(D)* À son voisin Pierre-Jean<br />
 
 *(Tutti:)*
-2. Clémence, Clémence<br />
+2. **Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
-Clémence va bien<br />
+Clémence va bien** <br />
 
 3. mhhh | *(A)* Ça sembla d'abord étrange<br />
 mhhh | *(B)* On s'interrogea un peu<br />
@@ -51,12 +53,12 @@ ouuu | *(C)* Ou encore une dispute<br />
 ouuu | *(D)* Avec ce brave Honoré<br />
 
 *(Tutti:)*
-4. Clémence, Clémence<br />
+4. **Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
-Clémence va bien<br />
+Clémence va bien** <br />
 
 5. mhhh | *(A)* vPuis on apprit par son gendre<br />
 mhhh | *(B)* Qu'il ne s'était rien passé<br />
@@ -68,12 +70,12 @@ ouuu | *(C)* Un peu de malice flambe<br />
 ouuu | *(D)* Parfois au bord de son œil<br />
 
 *(Tutti:)*
-6. Clémence, Clémence<br />
+6. **Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
-Clémence va bien<br />
+Clémence va bien** <br />
 
 7. mhhh | *(A)* Honoré, c'est bien dommage<br />
 mhhh | *(B)* Doit tout faire à la maison<br />
@@ -85,12 +87,12 @@ ouuu | *(C)* Elle répond dans un sourire<br />
 ouuu | *(D)* Va, j'ai bien assez cousu<br />
 
 *(Tutti:)*
-8. Clémence, Clémence<br />
+8. **Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
-Clémence va bien<br />
+Clémence va bien** <br />
 
 9. mhhh | *(A)* C'est la maîtresse d'école<br />
 mhhh | *(B)* Qui l'a dit au pharmacien<br />
@@ -102,12 +104,12 @@ ouuu | *(C)* N'est pas qu'elle ne veuille rien faire<br />
 ouuu | *(D)* Mais n'en ait aucun remords<br />
 
 *(Tutti:)*
-10. Clémence, Clémence<br />
+10. **Clémence, Clémence<br />
 A pris des vacances<br />
 Clémence ne fait plus rien<br />
 Clémence, Clémence<br />
 Est comme en enfance<br />
-Clémence va bien<br />
+Clémence va bien** <br />
 
 11. mhhh | *(A)* Je suis de bon voisinage<br />
 mhhh | *(B)* On me salue couramment<br />
@@ -119,24 +121,23 @@ ouuu | *(C)* La maladie de Clémence<br />
 ouuu | *(D)* Pourrait bien s'étendre là<br />
 
 *(Tutti:)*
-12. Toutes les Clémence<br />
+12. **Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
 Comme en enfance<br />
-Elles seraient bien<br />
+Elles seraient bien** <br />
 
-13. Toutes les Clémence<br />
+13. **Toutes les Clémence<br />
 Prendraient des vacances<br />
 Elles ne feraient plus rien<br />
 Toutes les Clémence<br />
 Comme en enfance<br />
-Se reposeraient enfin<br />
+Se reposeraient enfin** <br />
 
 14. Choubidou bidou...<br />
 
 ## La lotta 
-
 [top](#cantare)<br />
 
 1. Sebben che siamo donne<br />
@@ -148,12 +149,12 @@ Paura non abbiamo<br />
 Per amor de nostre figlie<br />
 In lotta ci mettiamo<br />
 
-2. Oh lio lio la, e la lotta crescera<br />
+2. **Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
 E noi altre feministe<br />
 Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
-Vogliam(o) la libertà<br />
+Vogliam(o) la libertà** <br />
 
 3. E la libertà non viene<br />
 Perché non c’è l’unione<br />
@@ -164,12 +165,12 @@ Perché non c’è l’unione<br />
 Crumiri col padrone<br />
 Son tutti da ammazza<br />
 
-4. Oh lio lio la, e la lotta crescera<br />
+4. **Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
 E noi altre feministe<br />
 Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
-Vogliam(o) la libertà<br />
+Vogliam(o) la libertà** <br />
 
 5. Sebben che siamo donne<br />
 Paura non abbiamo<br />
@@ -180,12 +181,12 @@ Paura non abbiamo<br />
 Abbiam delle belle buone lingue<br />
 E ben ci difendiamo<br />
 
-6. Oh lio lio la, e la lotta crescera<br />
+6. **Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
 E noi altre feministe<br />
 Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
-Vogliam(o) la libertà<br />
+Vogliam(o) la libertà** <br />
 
 7. E voi altri signoroni<br />
 Che ci avete tanto orgoglio<br />
@@ -196,12 +197,49 @@ Che ci avete tanto orgoglio<br />
 Abbassate la superbia<br />
 E aprite il portafoglio<br />
 
-8. Oh lio lio la, e la lotta crescera<br />
+8. **Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
 E noi altre feministe<br />
 Oh lio lio la, e la lotta crescera<br />
 E noi altre feministe<br />
-Vogliam(o) la libertà<br />
+Vogliam(o) la libertà** <br />
+
+## A la huelga
+[top](#cantare)<br/>
+*(version féministe)* <br />
+
+1. A la huelga compañera, no vayas a trabajar<br />
+Deja'el cazo, la herramienta, el teclado y'el ipad<br />
+
+2. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
+
+3. Contra'el estado machista nos vamos a levantar,<br />
+Vamos todas las mujeres a la huelga general<br />
+
+4. **A la huelga diez, a la huelga cien, la cartera dice que viene también.<br />
+A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+
+5. Se'han llevado'a mi vecina, en una redada mas,<br />
+Y por no tener papeles ahi'la quieren deportar.<br />
+
+6. **A la huelga diez, a la huelga cien, Esta vez queremos todo'el pastel<br />
+A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+
+7. Trabajamos en precario sin contrato'y sanidad<br />
+Y el trabajo de la casa no se reparte jamás.<br />
+
+8. **A la huelga diez, a la huelga cien, esta vez la cena no voy a'hacer.<br />
+A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+
+9. Privatizan la'enseñanza, no la podemos pagar<br />
+Pero nunca'aparecimos en los temas a'estudiar.<br />
+
+10. **A la huelga diez, a la huelga cien, en la'historia vamos a'aparecer.<br />
+A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+
+11. **A la huelga diez, al huelga cien, a la huelga madre ven tu también.<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
 
 ## La tendresse
 
