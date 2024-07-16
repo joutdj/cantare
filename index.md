@@ -21,6 +21,7 @@
   
 ## Clémence en vacances 
 [top](#cantare) <br />
+[CHORDS](https://tabs.ultimate-guitar.com/tab/3744545) <br />
 
 *(Chanson d'Anne Sylvestre)*<br />
 
@@ -209,37 +210,42 @@ Vogliam(o) la libertà** <br />
 *(version féministe)* <br />
 
 1. A la huelga compañera, no vayas a trabajar<br />
-Deja'el cazo, la herramienta, el teclado y'el ipad<br />
+Deja el cazo, la herramienta, el teclado y el ipad<br />
 
 2. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
-A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
 
-3. Contra'el estado machista nos vamos a levantar,<br />
+3. Contra el estado machista nos vamos a levantar<br />
 Vamos todas las mujeres a la huelga general<br />
 
-4. **A la huelga diez, a la huelga cien, la cartera dice que viene también.<br />
-A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+4. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
 
-5. Se'han llevado'a mi vecina, en una redada mas,<br />
-Y por no tener papeles ahi'la quieren deportar.<br />
+5. Se han llevado a mi vecina, en una redada mas<br />
+Y por no tener papeles ahi la quieren deportar<br />
 
-6. **A la huelga diez, a la huelga cien, Esta vez queremos todo'el pastel<br />
-A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+6. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
 
-7. Trabajamos en precario sin contrato'y sanidad<br />
-Y el trabajo de la casa no se reparte jamás.<br />
+7. Trabajamos en precario sin contrato y sanidad<br />
+Y el trabajo de la casa no se reparte jamás<br />
 
-8. **A la huelga diez, a la huelga cien, esta vez la cena no voy a'hacer.<br />
-A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+8. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
 
-9. Privatizan la'enseñanza, no la podemos pagar<br />
-Pero nunca'aparecimos en los temas a'estudiar.<br />
+9. Privatizan la enseñanza, no la podemos pagar<br />
+Pero nunca aparecimos en los temas a estudiar<br />
 
-10. **A la huelga diez, a la huelga cien, en la'historia vamos a'aparecer.<br />
-A la huelga cien, a la huelga mil, todas a la huelga vamos a ir.** <br />
+10. **A la huelga diez, a la huelga cien, a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
 
-11. **A la huelga diez, al huelga cien, a la huelga madre ven tu también.<br />
-A la huelga cien, a la huelga mil, yo por ellas madre y'ellas por mi.** <br />
+11. **A la huelga diez, al huelga cien , a la huelga madre ven tu también<br />
+A la huelga cien, a la huelga mil, yo por ellas madre y ellas por mi** <br />
+
+12. yo por ellas madre y ellas por mi
+yo por ellas madre y ellas por
+yo por ellas madre y ellas por
+yo por ellas madre y ellas por mi
 
 ## La tendresse
 
